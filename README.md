@@ -58,22 +58,25 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [awesome-hyper-v-exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
 * [CVE-2023-36427 Windows Hyper-V Elevation of Privilege Vulnerability](https://github.com/tandasat/CVE-2023-36427)
 
-## Docker
+## Docker / Container
 
 ### Basic
 
 * [eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments](https://www.blackhat.com/docs/eu-15/materials/eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments.pdf)
 * [CSW2016-Docker-Escape-Techonology](https://cansecwest.com/slides/2016/CSW2016_Wang_DockerEscapeTechnology.pdf)
 
-
 ### Writeup and Exploit
 
 * [Docker 容器逃逸案例分析](https://yq.aliyun.com/articles/57803?utm_source=qq)
 * [escaping-docker-container-using-waitid-cve-2017-5123](https://www.twistlock.com/labs-blog/escaping-docker-container-using-waitid-cve-2017-5123/)
+* [Leaky Vessels: CVE-2024-21626 runc process.cwd & leaked fds container breakout (Snyk)](https://snyk.io/blog/cve-2024-21626-runc-process-cwd-container-breakout/) | [Wiz Deep Dive](https://www.wiz.io/blog/leaky-vessels-container-escape-vulnerabilities) | [Static Detector](https://github.com/snyk/leaky-vessels-static-detector)
+* [runc container breakout via mount race conditions - CVE-2025-31133/52565/52881 (CNCF)](https://www.cncf.io/blog/2025/11/28/runc-container-breakout-vulnerabilities-a-technical-overview/) | [Sysdig Analysis](https://www.sysdig.com/blog/runc-container-escape-vulnerabilities) | [runc Advisory](https://github.com/opencontainers/runc/security/advisories/GHSA-9493-h29p-rfm2)
+* [NVIDIAScape: CVE-2025-23266 Three-Line Container Escape in NVIDIA Container Toolkit (Wiz)](https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape)
+* [NVIDIA Container Toolkit CVE-2024-0132 Container Escape (Wiz)](https://www.wiz.io/blog/wiz-research-critical-nvidia-ai-vulnerability)
 
 ### Tools
 
-[CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
+* [CDK - Zero Dependency Container Penetration Toolkit](https://github.com/cdk-team/CDK)
 
 ## Misc
 
