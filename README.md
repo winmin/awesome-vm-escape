@@ -16,7 +16,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [A-bunch-of-Red-Pills-VMware-Escapes](https://keenlab.tencent.com/en/2018/04/23/A-bunch-of-Red-Pills-VMware-Escapes/)
 * [eu-17-Mandal-The-Great-Escapes-Of-Vmware-A-Retrospective-Case-Study-Of-Vmware-G2H-Escape-Vulnerabilities](https://www.blackhat.com/docs/eu-17/materials/eu-17-Mandal-The-Great-Escapes-Of-Vmware-A-Retrospective-Case-Study-Of-Vmware-G2H-Escape-Vulnerabilities.pdf)
 * [Vmware-exploit GitHub repositor](https://github.com/xairy/vmware-exploitation)
-* [qemu-kvm和ESXi虚拟机逃逸实例分享](https://s0.ssl.qhres.com/static/afe66384eb42feff.pdf)
+* [qemu-kvm和ESXi虚拟机逃逸实例分享 - 360 Vulcan Team](https://tech.sina.com.cn/roll/2020-08-17/doc-iivhvpwy1449744.shtml)
 * [CVE-2022-31705 Geekpwn 2022 Vmware EHCI OOB](https://github.com/s0duku/cve-2022-31705)
 * [On the clock: Escaping VMware Workstation at Pwn2Own Berlin 2025 - PVSCSI Heap Overflow](https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025)
 * [The Great VM Escape - ESXicape: CVE-2025-22224/22225/22226 Exploit Chain](https://www.huntress.com/blog/esxi-vm-escape-exploit)
@@ -40,16 +40,16 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 ### Writeup and Exploit
 
 * [VM escape - QEMU Case Study](http://www.phrack.org/papers/vm-escape-qemu-case-study.html)
-* [Qemu - Escape - analysis - CVE-2015-7504 and CVE-2015-7512](https://www.anquanke.com/post/id/83015)
+* [Qemu - Escape - analysis - CVE-2015-7504 and CVE-2015-7512](https://www.anquanke.com/post/id/197638)
 * [Some Qemu escape exploit](https://github.com/dangokyo/QEMU_ESCAPE)
 * [CVE-2020-14364 QEMU逃逸 漏洞分析 ](https://mp.weixin.qq.com/s/MQyczZXRfOsIQewNf7cfXw)
-* [qemu-kvm和ESXi虚拟机逃逸实例分享](https://s0.ssl.qhres.com/static/afe66384eb42feff.pdf)
+* [qemu-kvm和ESXi虚拟机逃逸实例分享 - 360 Vulcan Team](https://tech.sina.com.cn/roll/2020-08-17/doc-iivhvpwy1449744.shtml)
 * [From virtio-snd 0-Day to Hypervisor Escape: Exploiting QEMU with an Uncontrolled Heap Overflow](https://osec.io/blog/2026-03-17-virtio-snd-qemu-hypervisor-escape/) | [Exploit](https://github.com/otter-sec/qemu-escape)
 * [Resurrecting Zombies: DMA Reentrancy in QEMU (HITB 2023)](https://conference.hitb.org/hitbsecconf2023ams/session/resurrecting-zombies-leveraging-advanced-techniques-of-dma-reentrancy-to-escape-qemu/)
 
 ## Parallels Desktop
 
-* [Advanced Exploitation ofSimple Bugs---A Parallels Desktop Case Study (Pwn2Own2021)](https://zerodayengineering.com/projects/slides/ZDE2021_AdvancedSimplePwn2Own2021.pdf)
+* [Advanced Exploitation of Simple Bugs - A Parallels Desktop Case Study (Pwn2Own 2021)](https://zerodayengineering.com/research/slides/ZDE2021_AdvancedEasyPwn2Own2021.pdf) | [Exploit](https://github.com/badd1e/Pwn/tree/main/prl_pwn_v1.1)
 
 * [CVE-2023-27326 Parallels Desktop Toolgate Vulnerability](https://github.com/Impalabs/CVE-2023-27326)
 
@@ -63,7 +63,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 ### Basic
 
 * [eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments](https://www.blackhat.com/docs/eu-15/materials/eu-15-Bettini-Vulnerability-Exploitation-In-Docker-Container-Environments.pdf)
-* [CSW2016-Docker-Escape-Techonology](https://cansecwest.com/slides/2016/CSW2016_Wang_DockerEscapeTechnology.pdf)
+* [CSW2016-Docker-Escape-Technology](https://www.slideshare.net/slideshow/csw2016-wang-dockerescapetechnology/60387867)
 
 ### Writeup and Exploit
 
