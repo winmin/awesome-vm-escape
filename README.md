@@ -1,5 +1,5 @@
 
-# awesome-vm-exploit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-vm-escape [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Sharing some useful archives about vm and qemu escape exploit.
 
