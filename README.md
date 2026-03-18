@@ -52,7 +52,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 
 ## Parallels Desktop
 
-* [Advanced Exploitation of Simple Bugs - A Parallels Desktop Case Study (Pwn2Own 2021)](https://zerodayengineering.com/research/slides/ZDE2021_AdvancedEasyPwn2Own2021.pdf) | [Exploit](https://github.com/badd1e/Pwn)
+* [Advanced Exploitation of Simple Bugs - A Parallels Desktop Case Study (Pwn2Own 2021)](https://zerodayengineering.com/research/slides/ZDE2021_AdvancedEasyPwn2Own2021.pdf)
 
 * [CVE-2023-27326 Parallels Desktop Toolgate Vulnerability](https://github.com/Impalabs/CVE-2023-27326)
 
