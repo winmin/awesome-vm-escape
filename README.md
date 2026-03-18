@@ -20,6 +20,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [CVE-2022-31705 Geekpwn 2022 Vmware EHCI OOB](https://github.com/s0duku/cve-2022-31705)
 * [On the clock: Escaping VMware Workstation at Pwn2Own Berlin 2025 - PVSCSI Heap Overflow](https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025)
 * [The Great VM Escape - ESXicape: CVE-2025-22224/22225/22226 Exploit Chain](https://www.huntress.com/blog/esxi-vm-escape-exploit)
+* [Bugs of Yore: A Bug Hunting Journey on VMware's Hypervisor (Black Hat USA 2024)](https://i.blackhat.com/BH-US-24/Presentations/US24-Sialveras-Bugs-Of-Yore-Wednesday.pdf)
 
 ## Virtualbox
 
@@ -34,6 +35,8 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [VirtualBox 5.2.6.r120293 -VM Escape](https://www.exploit-db.com/exploits/45372/)
 * [Pwn2Own 2018 Virtualbox 的漏洞分析及利用介绍：thinking_outside_the_virtualbox](https://github.com/phoenhex/files/blob/master/slides/thinking_outside_the_virtualbox.pdf)
 * [Escaping VirtualBox 6.1](https://secret.club/2021/01/14/vbox-escape.html)
+* [Analysis of VirtualBox CVE-2023-21987 and CVE-2023-21991 - VGA & TPM OOB (Pwn2Own 2023)](https://qriousec.github.io/post/vbox-pwn2own-2023/)
+* [CVE-2024-21115: An Oracle VirtualBox LPE Used to Win Pwn2Own](https://www.thezdi.com/blog/2024/5/9/cve-2024-21115-an-oracle-virtualbox-lpe-used-to-win-pwn2own)
 
 ##  Qemu
 
@@ -72,7 +75,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [Leaky Vessels: CVE-2024-21626 runc process.cwd & leaked fds container breakout (Snyk)](https://snyk.io/blog/cve-2024-21626-runc-process-cwd-container-breakout/) | [Wiz Deep Dive](https://www.wiz.io/blog/leaky-vessels-container-escape-vulnerabilities) | [Static Detector](https://github.com/snyk/leaky-vessels-static-detector)
 * [runc container breakout via mount race conditions - CVE-2025-31133/52565/52881 (CNCF)](https://www.cncf.io/blog/2025/11/28/runc-container-breakout-vulnerabilities-a-technical-overview/) | [Sysdig Analysis](https://www.sysdig.com/blog/runc-container-escape-vulnerabilities) | [runc Advisory](https://github.com/opencontainers/runc/security/advisories/GHSA-9493-h29p-rfm2)
 * [NVIDIAScape: CVE-2025-23266 Three-Line Container Escape in NVIDIA Container Toolkit (Wiz)](https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape)
-* [NVIDIA Container Toolkit CVE-2024-0132 Container Escape (Wiz)](https://www.wiz.io/blog/wiz-research-critical-nvidia-ai-vulnerability)
+* [NVIDIA Container Toolkit CVE-2024-0132 Container Escape Deep Dive (Wiz)](https://www.wiz.io/blog/nvidia-ai-vulnerability-deep-dive-cve-2024-0132)
 
 ### Tools
 
