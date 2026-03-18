@@ -42,6 +42,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [Some Qemu escape exploit](https://github.com/dangokyo/QEMU_ESCAPE)
 * [CVE-2020-14364 QEMU逃逸 漏洞分析 ](https://mp.weixin.qq.com/s/MQyczZXRfOsIQewNf7cfXw)
 * [qemu-kvm和ESXi虚拟机逃逸实例分享](https://s0.ssl.qhres.com/static/afe66384eb42feff.pdf)
+* [From virtio-snd 0-Day to Hypervisor Escape: Exploiting QEMU with an Uncontrolled Heap Overflow](https://osec.io/blog/2026-03-17-virtio-snd-qemu-hypervisor-escape/) | [Exploit](https://github.com/otter-sec/qemu-escape)
 
 ## Parallels Desktop
 
