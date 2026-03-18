@@ -9,4 +9,4 @@ jobs:
       - name: Run linksafe
         uses: TechWiz-3/linksafe@main
         with:
-          whitelist_links: "https://zhuanlan.zhihu.com/p,https://en.wikipedia.org,https://www.exploit-db.com,https://www.gnu.org/licenses"
+          whitelist_links: "https://zhuanlan.zhihu.com/p,https://en.wikipedia.org,https://www.exploit-db.com,https://www.gnu.org/licenses,https://www.anquanke.com"
