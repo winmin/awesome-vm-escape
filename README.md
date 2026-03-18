@@ -18,6 +18,8 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [Vmware-exploit GitHub repositor](https://github.com/xairy/vmware-exploitation)
 * [qemu-kvm和ESXi虚拟机逃逸实例分享](https://s0.ssl.qhres.com/static/afe66384eb42feff.pdf)
 * [CVE-2022-31705 Geekpwn 2022 Vmware EHCI OOB](https://github.com/s0duku/cve-2022-31705)
+* [On the clock: Escaping VMware Workstation at Pwn2Own Berlin 2025 - PVSCSI Heap Overflow](https://www.synacktiv.com/en/publications/on-the-clock-escaping-vmware-workstation-at-pwn2own-berlin-2025)
+* [The Great VM Escape - ESXicape: CVE-2025-22224/22225/22226 Exploit Chain](https://www.huntress.com/blog/esxi-vm-escape-exploit)
 
 ## Virtualbox
 
@@ -43,6 +45,7 @@ In [computer security](https://en.wikipedia.org/wiki/Computer_security), **virtu
 * [CVE-2020-14364 QEMU逃逸 漏洞分析 ](https://mp.weixin.qq.com/s/MQyczZXRfOsIQewNf7cfXw)
 * [qemu-kvm和ESXi虚拟机逃逸实例分享](https://s0.ssl.qhres.com/static/afe66384eb42feff.pdf)
 * [From virtio-snd 0-Day to Hypervisor Escape: Exploiting QEMU with an Uncontrolled Heap Overflow](https://osec.io/blog/2026-03-17-virtio-snd-qemu-hypervisor-escape/) | [Exploit](https://github.com/otter-sec/qemu-escape)
+* [Resurrecting Zombies: DMA Reentrancy in QEMU (HITB 2023)](https://conference.hitb.org/hitbsecconf2023ams/session/resurrecting-zombies-leveraging-advanced-techniques-of-dma-reentrancy-to-escape-qemu/) | [awesome-list by 0xor0ne](https://github.com/0xor0ne/awesome-list)
 
 ## Parallels Desktop
 
